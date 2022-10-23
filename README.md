@@ -1,9 +1,9 @@
 <h1 align="center">Hi There👋, I'm Wahyu Ramadhan</h1>
 <h3 align="center">A young frontend developer with high spirits</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wramadhan&label=Profile%20views&color=0e75b6&style=flat" alt="wramadhan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=wramadhan&label=Profile%20views&color=0e75b6&style=flat" alt="wramadhan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wramadhan" alt="wramadhan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wramadhan" alt="wramadhan" /></a> </p>
 
 - 🌱 I’m currently learning **Frontend Developer at Alterra Academy**
 
@@ -28,9 +28,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/wahyuramadhan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/wahyuramadhan" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wramadhan&show_icons=true&locale=en&layout=compact" alt="wramadhan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wramadhan&show_icons=true&locale=en&layout=compact" alt="wramadhan" /></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wramadhan&show_icons=true&locale=en" alt="wramadhan" /></p>
+<p<img align="center" src="https://github-readme-stats.vercel.app/api?username=wramadhan&show_icons=true&locale=en" alt="wramadhan" /></p><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wramadhan&" alt="wramadhan" /></p>
 
