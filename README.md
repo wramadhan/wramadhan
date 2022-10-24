@@ -5,8 +5,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wramadhan" alt="wramadhan" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend Developer at Alterra Academy**
-
 - 👨‍💻 All of my projects are available at [https://helloimwahyu.vercel.app/](https://helloimwahyu.vercel.app/)
 
 - 💬 Ask me about **Figma, Photoshop, ReactJs and NextJs**
